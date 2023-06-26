@@ -1,0 +1,5 @@
+.dockerignore
+shoppingcart.db
+bin
+obj
+out

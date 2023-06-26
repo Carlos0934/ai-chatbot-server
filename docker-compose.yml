@@ -1,0 +1,40 @@
+services:
+
+  gpt-api:
+    build: ./gpt-api
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+  
+    depends_on:
+      - product-api
+      - shopping-api
+      - payment-api
+    
+    
+  product-api:
+    build: ./product-api
+    ports:
+      - "8001:8001"
+
+  shopping-api:
+    build: ./shopping-api    
+    ports:
+      - "8002:8002"
+
+  payment-api:
+    build: ./payment-api
+    ports:
+      - "8003:8003"
+    env_file:
+      - .env
+
+
+ 
+
+
+    
+
+
+   

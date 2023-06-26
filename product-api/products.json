@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "name": "Running Shoes",
+      "description": "High-quality running shoes ideal for running and exercise.",
+      "image": "https://example.com/images/running-shoes.jpg",
+      "price": 49.99
+    },
+    {
+      "id": 2,
+      "name": "Cotton T-shirt",
+      "description": "Soft and comfortable cotton t-shirt for everyday wear.",
+      "image": "https://example.com/images/cotton-tshirt.jpg",
+      "price": 14.99
+    },
+    {
+      "id": 3,
+      "name": "Ultrathin Laptop",
+      "description": "Ultrathin laptop with powerful performance and high-resolution display.",
+      "image": "https://example.com/images/ultrathin-laptop.jpg",
+      "price": 999.99
+    },
+    {
+      "id": 4,
+      "name": "Leather Bag",
+      "description": "Elegant and spacious leather bag for carrying your belongings.",
+      "image": "https://example.com/images/leather-bag.jpg",
+      "price": 79.99
+    },
+    {
+      "id": 5,
+      "name": "Wrist Watch",
+      "description": "Water-resistant wrist watch with stainless steel strap.",
+      "image": "https://example.com/images/wrist-watch.jpg",
+      "price": 129.99
+    },
+    {
+      "id": 6,
+      "name": "Polarized Sunglasses",
+      "description": "Polarized sunglasses with UV protection and modern style.",
+      "image": "https://example.com/images/sunglasses.jpg",
+      "price": 39.99
+    },
+    {
+      "id": 7,
+      "name": "Portable Bluetooth Speaker",
+      "description": "Portable speaker with Bluetooth connectivity and high-quality sound.",
+      "image": "https://example.com/images/bluetooth-speaker.jpg",
+      "price": 69.99
+    },
+    {
+      "id": 8,
+      "name": "Compact Digital Camera",
+      "description": "Compact digital camera with 20-megapixel resolution and optical zoom.",
+      "image": "https://example.com/images/digital-camera.jpg",
+      "price": 299.99
+    },
+    {
+      "id": 9,
+      "name": "Android Tablet",
+      "description": "Android tablet with 10-inch touchscreen and expandable storage.",
+      "image": "https://example.com/images/android-tablet.jpg",
+      "price": 199.99
+    },
+    {
+      "id": 10,
+      "name": "Electric Hair Brush",
+      "description": "Electric hair brush with ionic technology and high-quality bristles.",
+      "image": "https://example.com/images/hair-brush.jpg",
+      "price": 34.99
+    },
+    {
+      "id": 11,
+      "name": "Nonstick Frying Pan",
+      "description": "High-quality nonstick frying pan with ceramic coating.",
+      "image": "https://example.com/images/frying-pan.jpg",
+      "price": 29.99
+    },
+    {
+      "id": 12,
+      "name": "Capsule Coffee Maker",
+      "description": "Compact and easy-to-use capsule coffee maker with fast extraction system.",
+      "image": "https://example.com/images/coffee-maker.jpg",
+      "price": 79.99
+    },
+    {
+      "id": 13,
+      "name": "Professional Makeup Kit",
+      "description": "Professional makeup kit with eyeshadows, lipsticks, and brushes.",
+      "image": "https://example.com/images/makeup-kit.jpg",
+      "price": 49.99
+    },
+    {
+      "id": 14,
+      "name": "Gaming Mechanical Keyboard",
+      "description": "Gaming mechanical keyboard with RGB backlighting and programmable keys.",
+      "image": "https://example.com/images/gaming-keyboard.jpg",
+      "price": 89.99
+    },
+    {
+      "id": 15,
+      "name": "Portable Power Bank",
+      "description": "High-capacity portable power bank for charging mobile devices.",
+      "image": "https://example.com/images/power-bank.jpg",
+      "price": 49.99
+    },
+    {
+      "id": 16,
+      "name": "4K Smart TV",
+      "description": "4K smart TV with a 55-inch display and access to streaming services.",
+      "image": "https://example.com/images/smart-tv.jpg",
+      "price": 699.99
+    },
+    {
+      "id": 17,
+      "name": "Robot Vacuum Cleaner",
+      "description": "Intelligent robot vacuum cleaner with laser navigation and voice control.",
+      "image": "https://example.com/images/vacuum-cleaner.jpg",
+      "price": 249.99
+    },
+    {
+      "id": 18,
+      "name": "Mountain Bike",
+      "description": "Sturdy mountain bike with front suspension and gear shifts.",
+      "image": "https://example.com/images/mountain-bike.jpg",
+      "price": 399.99
+    },
+    {
+      "id": 19,
+      "name": "Wireless Earphones",
+      "description": "Wireless earphones with noise cancellation and charging case.",
+      "image": "https://example.com/images/earphones.jpg",
+      "price": 129.99
+    },
+    {
+      "id": 20,
+      "name": "Cookbook",
+      "description": "Cookbook with a variety of delicious and easy-to-prepare recipes.",
+      "image": "https://example.com/images/cookbook.jpg",
+      "price": 19.99
+    }
+  ]
+  

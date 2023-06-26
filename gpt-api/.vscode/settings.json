@@ -1,0 +1,9 @@
+{
+  "deno.enablePaths": [
+    "./"
+  ],
+  "deno.enable": true,
+  "editor.inlayHints.enabled": "off",
+  "deno.unstable": true,
+  "deno.config": "./deno.jsonc"
+}

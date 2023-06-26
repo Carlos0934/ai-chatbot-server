@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "name": "Sport Shoes",
+      "description": "Sports shoes for running and exercise."
+    },
+    {
+      "id": 2,
+      "name": "Clothing",
+      "description": "Garments of various styles and materials."
+    },
+    {
+      "id": 3,
+      "name": "Electronics",
+      "description": "Electronic devices and technological accessories."
+    },
+    {
+      "id": 4,
+      "name": "Fashion Accessories",
+      "description": "Accessories to enhance your personal style."
+    },
+    {
+      "id": 5,
+      "name": "Home Appliances",
+      "description": "Electric appliances to facilitate household tasks."
+    },
+    {
+      "id": 6,
+      "name": "Beauty and Personal Care",
+      "description": "Products for enhancing beauty and personal grooming."
+    },
+    {
+      "id": 7,
+      "name": "Kitchenware",
+      "description": "Tools and utensils for cooking and food preparation."
+    },
+    {
+      "id": 8,
+      "name": "Sports and Outdoors",
+      "description": "Equipment and gear for sports and outdoor activities."
+    },
+    {
+      "id": 9,
+      "name": "Technology",
+      "description": "Cutting-edge gadgets and technological innovations."
+    },
+    {
+      "id": 10,
+      "name": "Books and Entertainment",
+      "description": "Books, movies, and other forms of entertainment."
+    }
+  ]
+  
